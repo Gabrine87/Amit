@@ -1,0 +1,5 @@
+{
+  "name": "SonicGen AI Voice Studio",
+  "description": "An advanced AI Text-to-Speech studio featuring emotion control, voice morphing, and real-time lip-sync visualization using Gemini 2.5 Flash TTS.",
+  "requestFramePermissions": []
+}
